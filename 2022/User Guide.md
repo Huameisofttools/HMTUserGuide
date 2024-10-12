@@ -31,16 +31,16 @@ This extension can be installed for the following version of Visual Studio IDE:
 
 2. Click the Manage Extensions button.
 
-![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/Installation2.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/installation2.png)
 
 3. Input the key word "Huamei" or "Huamei 365® D365FO Tools", find it and install it.
 
-![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/Install3.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/install3.png)
 
 4. Close the Visual Studio, and Modify its extension.
 5. Open the Visual Studio, if the HMT menu display, that means your installation successfully.
 
-![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/Install4.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/install4.png)
 
 ## Develops Tools Menu
 
