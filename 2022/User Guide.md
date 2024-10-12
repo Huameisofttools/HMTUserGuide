@@ -27,7 +27,7 @@ This extension can be installed for the following version of Visual Studio IDE:
 
 1. Open the Visual Studio, find the Extension button.
 
-![install1]([.\Images\installation1.png](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/globelmenu1.png))
+![install1](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/globelmenu1.png))
 
 2. Click the Manage Extensions button.
 
