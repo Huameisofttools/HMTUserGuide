@@ -31,16 +31,16 @@ This extension can be installed for the following version of Visual Studio IDE:
 
 2. Click the Manage Extensions button.
 
-![install2](.\Images\Installation2.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/Installation2.png)
 
 3. Input the key word "Huamei" or "Huamei 365® D365FO Tools", find it and install it.
 
-![install2](.\Images\Install3.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/Install3.png)
 
 4. Close the Visual Studio, and Modify its extension.
 5. Open the Visual Studio, if the HMT menu display, that means your installation successfully.
 
-![install2](.\Images\Install4.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/Install4.png)
 
 ## Develops Tools Menu
 
@@ -54,7 +54,7 @@ HMT has three menus on the Visual Studio IDE as shown below:
 
 The global menu function list is as follows:
 
-![install2](.\Images\globelmenu1.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/globelmenu1.png)
 
 
 1. **Generate Label For All** the static text of the current Solution.
@@ -65,7 +65,7 @@ The global menu function list is as follows:
 
 The list of project menu functions is as follows:
 
-![install2](.\Images\globelmenu2.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/globelmenu2.png)
 
 1. **Generate Header Comment For Project** Generate header comment for project
 2. **Generate Label For Project** Create labels for all static text for the project
@@ -73,7 +73,7 @@ The list of project menu functions is as follows:
 
 ### Item Menu
 
-![install2](.\Images\globelmenu3.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/globelmenu3.png)
 
 1. **Generate Form For Table** Create a form for the selected table
 2. **Generate Header Comment For Item** Create comments for the code of the selected object
@@ -88,7 +88,7 @@ The list of project menu functions is as follows:
 
 HMT supports the setting of some special parameters in Tools Option. The specific path is Tools > Option > HMT D365FFO tools > D365FFO Page:
 
-![install2](.\Images\option1.png)
+![install2](https://github.com/HMWillieYao/HMTUserGuide/blob/main/2022/Images/option1.png)
 
 Currently, HMT Option contains three parameters:
 1. The **Extension Class Prefix** is the default prefix when the extension class is created.
