@@ -2,9 +2,9 @@
 
 > This tool can increase the dynamics 365f&o developers' efficiency. And it can decrease the operation flow. If you want to install this tool, please get it as follows links.
 
-[Huamei 365® D365FO Tools]([Huamei 365® D365FO Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=HuameiSoftTools.HMT20))
+[Huamei 365® D365FO Tools](https://marketplace.visualstudio.com/items?itemName=HuameiSoftTools.HMT20)
 
-[Huamei 365® D365FO Tools (2019)]([Huamei 365® D365FO Tools (2019) - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=HuameiSoftTools.HMT19))
+[Huamei 365® D365FO Tools (2019)](https://marketplace.visualstudio.com/items?itemName=HuameiSoftTools.HMT19)
 
 > Or you can navigate to Extension > Manage Extensions, input `Huamei` then get this tool and install it directly.
 
